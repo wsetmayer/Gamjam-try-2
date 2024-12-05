@@ -29,3 +29,5 @@ List of group members:
 Adia Holt - Game Art (Level and Character Art)
 
 Walker Setmayer - Level design
+
+Ian Fernandez - Scripting
