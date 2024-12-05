@@ -2,7 +2,7 @@
 # Project Name
 MSCH-C220 Game Jam, December 2024
 
-#Theme
+# Theme
 
 Reverse Trope (Princess saving Knight)
 
