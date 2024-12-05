@@ -18,9 +18,11 @@ Complete each level to reach the Knight
 
 Level Enemies
 Pixart Creations
+Level design
 
 # References
 
 Created by: Ihate9am's
 List of group members:
 Adia Holt - Game Art (Level and Character Art)
+Walker Setmayer - Level design
