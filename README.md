@@ -13,14 +13,20 @@ Complete each level to reach the Knight
 
 # Impediments
 
+Time managment, everything breaking at all times
+
 
 # Implementation
+
+
 
 Level Enemies
 Pixart Creations
 Level design
 
 # References
+
+Kenny Tileset Assets https://kenney.nl/
 
 Created by: Ihate9am's
 
